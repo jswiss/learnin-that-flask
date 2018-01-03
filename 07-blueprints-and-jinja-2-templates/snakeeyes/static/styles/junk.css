@@ -1,0 +1,12 @@
+.subtitle {
+    color: #f42fb0;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-kerning: 2em;
+    font-size: 40px;
+}
+
+.paratext {
+    color: #28f02b;
+    font-style: italic;
+    text-shadow: #FC0 1px 0 10px;
+}
