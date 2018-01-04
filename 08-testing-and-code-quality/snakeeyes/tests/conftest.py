@@ -1,3 +1,4 @@
+# conventions set by pytest
 import pytest
 
 from snakeeyes.app import create_app
