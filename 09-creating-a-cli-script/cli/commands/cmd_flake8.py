@@ -22,3 +22,4 @@ def cli(skip_init, path):
 
     cmd = 'flake8 {0}{1}'.format(path, flake8_flag_exclude)
     return subprocess.call(cmd, shell=True)
+

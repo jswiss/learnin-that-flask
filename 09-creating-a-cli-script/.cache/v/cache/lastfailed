@@ -1,0 +1,5 @@
+{
+  "snakeeyes/tests/page/test_views.py::TestPage::()::test_home_page": true, 
+  "snakeeyes/tests/page/test_views.py::TestPage::()::test_privacy_page": true, 
+  "snakeeyes/tests/page/test_views.py::TestPage::()::test_terms_page": true
+}
